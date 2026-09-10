@@ -1,0 +1,15 @@
+{
+	"name": "factoryk2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c4102c9-d712-4092-ab5f-07e707c39a18",
+		"tenantId": "81e22429-d9df-4e8e-b706-8031eac4b8f8"
+	}
+}
